@@ -5,6 +5,11 @@
     justify-content: space-between;
 }
 
+#origamiDesigns {
+    justify-content: space-between;
+    padding: 15px;
+    margin: 25px;
+}
 body {
     background-color: #deebdd;
     color: #DF2800;
